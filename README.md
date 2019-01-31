@@ -5,6 +5,8 @@ In the code using OpenCV I have used the cascades of Local Binary Patterns (LBPH
 In the code using Machine Learning I have used Support Vector Machine (SVM) and Principal Component Analysis (PCA).
 The ‘Trainer’ codes take as input a Celebrity Face dataset with about 20 samples per class. The information gathered from this training is then tested by the ‘Testing’ code that takes a sample outside of the training data to predict the face of the Celebrity in the test sample.
 
+You can download the training dataset here:  https://www.kaggle.com/dansbecker/5-celebrity-faces-dataset
+
 ## Implementation
 The implementation of the project can be divided into 4 basic stages namely:
 
